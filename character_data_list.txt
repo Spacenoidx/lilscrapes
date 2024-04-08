@@ -1,0 +1,39 @@
+{'S': 'Tracer'}
+{'S': ' Zenyatta'}
+{'S': ' Lúcio'}
+{'S': ' Wrecking Ball'}
+{'S': ' Sombra'}
+{'S': ' Sojourn'}
+{'A': 'D’Va'}
+{'A': ' Winston'}
+{'A': ' Sigma'}
+{'A': ' Doomfist'}
+{'A': ' Ashe'}
+{'A': ' Genji'}
+{'A': ' Soldier: 76'}
+{'A': ' Reaper'}
+{'A': ' Widowmaker'}
+{'A': ' Moira'}
+{'A': ' Brigitte'}
+{'A': ' Kiriko'}
+{'A': ' Baptiste'}
+{'B': 'Ramattra'}
+{'B': ' Bastion'}
+{'B': ' Cassidy'}
+{'B': ' Hanzo'}
+{'B': ' Mei'}
+{'B': ' Torbjörn'}
+{'B': ' Phara'}
+{'B': ' Ana'}
+{'B': ' Zarya'}
+{'C': 'Junker Queen'}
+{'C': ' Echo'}
+{'C': ' Roadhog'}
+{'C': ' Orisa'}
+{'C': ' Symmetra'}
+{'C': ' Junk Rat'}
+{'D': 'Mauga'}
+{'D': ' Lifeweaver'}
+{'D': ' Mercy'}
+{'D': ' Reinhardt'}
+{'D': ' Illari'}

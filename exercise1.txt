@@ -1,0 +1,6 @@
+    Tier Heroes
+S Tracer, Zenyatta, Lúcio, Wrecking Ball, Sombra, Sojourn
+A D’Va, Winston, Sigma, Doomfist, Ashe, Genji, Soldier: 76, Reaper, Widowmaker, Moira, Brigitte, Kiriko, Baptiste
+B Ramattra, Bastion, Cassidy, Hanzo, Mei, Torbjörn, Phara, Ana, Zarya
+C Junker Queen, Echo, Roadhog, Orisa, Symmetra, Junk Rat
+D Mauga, Lifeweaver, Mercy, Reinhardt, Illari
